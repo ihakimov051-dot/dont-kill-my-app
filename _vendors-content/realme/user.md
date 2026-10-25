@@ -1,6 +1,6 @@
 ---
 manufacturer: 
-    - realme
+    - realme for android 11
 
 ---
 
